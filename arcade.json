@@ -18,6 +18,7 @@
 		"Multiplayer",
 		"NinePatch",
 		"Text",
+		"TextBox",
 		"Tilemap",
 		"Touch"
 	],
