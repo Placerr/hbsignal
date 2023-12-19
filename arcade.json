@@ -1,0 +1,26 @@
+﻿{
+	"name": "Signal DEMO",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "280",
+	"ife": false,
+	"used-plugins": [
+		"Button",
+		"List",
+		"Mouse",
+		"Multiplayer",
+		"NinePatch",
+		"Text",
+		"Tilemap",
+		"Touch"
+	],
+	"used-behaviors": [
+	]
+}
